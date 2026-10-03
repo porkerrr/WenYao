@@ -1,0 +1,135 @@
+{
+  "schema": 1,
+  "appearance": "Reference A",
+  "order": [
+    "coin_0",
+    "coin_1",
+    "coin_2"
+  ],
+  "frontScore": 3,
+  "backScore": 2,
+  "frozenResultSelectsAsset": true,
+  "runtimePhysics": false,
+  "results": [
+    {
+      "result": "222",
+      "assetDirectory": "coin_preview_eight/222",
+      "file": "three_coins.glb",
+      "sourceFile": "takes/222/coins_222.glb",
+      "sha256": "c32d412e4b065b89426518650f82329a713698b4e4463f1914a8b4bfb5d02a08",
+      "fps": 60,
+      "durationSeconds": 5.983333333333333,
+      "scores": [
+        2,
+        2,
+        2
+      ],
+      "animation": "Scene"
+    },
+    {
+      "result": "223",
+      "assetDirectory": "coin_preview_eight/223",
+      "file": "three_coins.glb",
+      "sourceFile": "takes/223/coins_223.glb",
+      "sha256": "d8053043fd62816cce3a51e414cf7bb33a316da7d9e47a4d870c63900f5e7190",
+      "fps": 60,
+      "durationSeconds": 5.983333333333333,
+      "scores": [
+        2,
+        2,
+        3
+      ],
+      "animation": "Scene"
+    },
+    {
+      "result": "232",
+      "assetDirectory": "coin_preview_eight/232",
+      "file": "three_coins.glb",
+      "sourceFile": "takes/232/coins_232.glb",
+      "sha256": "ff21ea36dbc6bf3a456f7bfd1b41cb555c38dbad205ada7ec8a58b7933635a7d",
+      "fps": 60,
+      "durationSeconds": 5.983333333333333,
+      "scores": [
+        2,
+        3,
+        2
+      ],
+      "animation": "Scene"
+    },
+    {
+      "result": "233",
+      "assetDirectory": "coin_preview_eight/233",
+      "file": "three_coins.glb",
+      "sourceFile": "takes/233/coins_233.glb",
+      "sha256": "d0be1c57d7c03b858ce2899e7039cb9434b6a4bb8b3918f695ba5de402715b05",
+      "fps": 60,
+      "durationSeconds": 5.983333333333333,
+      "scores": [
+        2,
+        3,
+        3
+      ],
+      "animation": "Scene"
+    },
+    {
+      "result": "322",
+      "assetDirectory": "coin_preview_eight/322",
+      "file": "three_coins.glb",
+      "sourceFile": "takes/322/coins_322.glb",
+      "sha256": "665c4917f6938bc7dca5afb1cea130fc8dbfbbfd2a2fda4e93b73efbef0c6e5d",
+      "fps": 60,
+      "durationSeconds": 5.983333333333333,
+      "scores": [
+        3,
+        2,
+        2
+      ],
+      "animation": "Scene"
+    },
+    {
+      "result": "323",
+      "assetDirectory": "coin_preview_eight/323",
+      "file": "three_coins.glb",
+      "sourceFile": "takes/323/coins_323.glb",
+      "sha256": "a3e457d85cf9e4de3be777cfe1c7f48b323a9a60df1a6edb50d68f8c18c121f1",
+      "fps": 60,
+      "durationSeconds": 5.983333333333333,
+      "scores": [
+        3,
+        2,
+        3
+      ],
+      "animation": "Scene"
+    },
+    {
+      "result": "332",
+      "assetDirectory": "coin_preview_eight/332",
+      "file": "three_coins.glb",
+      "sourceFile": "takes/332/coins_332.glb",
+      "sha256": "5a9ed10b23b8d8c231af356036c3d087bd8ac949b439313c2e5e4e757fbbfc41",
+      "fps": 60,
+      "durationSeconds": 5.983333333333333,
+      "scores": [
+        3,
+        3,
+        2
+      ],
+      "animation": "Scene"
+    },
+    {
+      "result": "333",
+      "assetDirectory": "coin_preview_eight/333",
+      "file": "three_coins.glb",
+      "sourceFile": "takes/333/coins_333.glb",
+      "sha256": "7e32582d9a9597316e1c7042a213692efa4b0c59977ccf6f144855bbe83d8cd6",
+      "fps": 60,
+      "durationSeconds": 5.983333333333333,
+      "scores": [
+        3,
+        3,
+        3
+      ],
+      "animation": "Scene"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+// Keep Round 5 verification independent of other debug preview builds.
+allprojects {
+    layout.buildDirectory.set(file("${rootDir}/app/build/motion-round5/verification/${project.name}"))
+    plugins.withId('com.android.application') {
+        androidComponents.finalizeDsl { extension ->
+            extension.defaultConfig.applicationId = 'com.peterpork.liuyao.motionreview.round5'
+            extension.defaultConfig.testApplicationId = 'com.peterpork.liuyao.motionreview.round5.test'
+        }
+    }
+}

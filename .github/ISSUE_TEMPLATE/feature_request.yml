@@ -1,0 +1,23 @@
+name: 功能建议
+description: 说明实际需求与建议行为
+title: "[Feature] "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: 要解决的问题
+      description: 说明使用场景，使用虚构或公开示例，不填写个人敏感事项。
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 建议行为
+      description: 描述期望结果，以及考虑过的替代方案。
+    validations:
+      required: true
+  - type: textarea
+    id: boundaries
+    attributes:
+      label: 规则、数据与验证边界
+      description: 可选；若涉及六爻规则、迁移、AI 协议或新资源，请提供来源与可验证的案例，不附真实凭据。

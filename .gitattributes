@@ -1,0 +1,6 @@
+gradlew text eol=lf
+*.sh text eol=lf
+*.bat text eol=crlf
+docs/licenses/*.txt -text
+docs/licenses/*.md -text
+docs/licenses/** -text

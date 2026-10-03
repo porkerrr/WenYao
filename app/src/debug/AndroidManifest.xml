@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+    <application android:name=".DebugWenYaoApplication" tools:replace="android:name">
+        <activity android:name=".preview.SplashPreviewActivity" android:exported="true" android:label="问爻 · 开屏验收" />
+        <activity android:name=".preview.CastingVerificationActivity" android:exported="true" android:label="问爻 · 起卦隔离验收" />
+        <!-- Separate launcher exists in debug builds only; no casting/history navigation. -->
+        <activity android:name=".preview.CoinPreviewActivity" android:exported="true" android:label="问爻 · 3D 调试">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity-alias android:name=".preview.EightResultsPreview"
+            android:targetActivity=".preview.CoinPreviewActivity" android:exported="true"
+            android:label="问爻 · 八种结果">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity-alias>
+    </application>
+</manifest>

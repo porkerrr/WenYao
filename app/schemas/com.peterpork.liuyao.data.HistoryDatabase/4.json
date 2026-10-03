@@ -1,0 +1,316 @@
+{
+  "formatVersion": 1,
+  "database": {
+    "version": 4,
+    "identityHash": "272970737705801829e5bc7902afce77",
+    "entities": [
+      {
+        "tableName": "divination_records",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`id` TEXT NOT NULL, `question` TEXT NOT NULL, `createdAtEpochMillis` INTEGER NOT NULL, `lineValues` TEXT NOT NULL, `originalName` TEXT NOT NULL, `changedName` TEXT NOT NULL, `analysisSummary` TEXT NOT NULL, `analysisTrend` TEXT NOT NULL, `analysisFactor1` TEXT NOT NULL, `analysisFactor2` TEXT NOT NULL, `analysisFactor3` TEXT NOT NULL, `analysisFactor4` TEXT NOT NULL, `analysisFactor5` TEXT NOT NULL, `analysisFactor6` TEXT NOT NULL, `analysisText` TEXT NOT NULL, `analysisSuggestion` TEXT NOT NULL, `analysisConfidenceNote` TEXT NOT NULL, `analysisProvider` TEXT NOT NULL, `analysisVersion` INTEGER NOT NULL, `analysisStatus` TEXT NOT NULL, `schemaVersion` INTEGER NOT NULL, `engineVersion` TEXT NOT NULL, `castAtEpochMillis` INTEGER, `timezoneId` TEXT, `utcOffsetSeconds` INTEGER, `professionalGenerationStatus` TEXT NOT NULL, `professionalRulesetId` TEXT NOT NULL, `professionalRulesetVersion` TEXT NOT NULL, `professionalVerificationStatus` TEXT NOT NULL, `professionalSnapshotJson` TEXT, `professionalErrorCode` TEXT, PRIMARY KEY(`id`))",
+        "fields": [
+          {
+            "fieldPath": "id",
+            "columnName": "id",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "question",
+            "columnName": "question",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "createdAtEpochMillis",
+            "columnName": "createdAtEpochMillis",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "lineValues",
+            "columnName": "lineValues",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "originalName",
+            "columnName": "originalName",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "changedName",
+            "columnName": "changedName",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "analysisSummary",
+            "columnName": "analysisSummary",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "analysisTrend",
+            "columnName": "analysisTrend",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "analysisFactor1",
+            "columnName": "analysisFactor1",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "analysisFactor2",
+            "columnName": "analysisFactor2",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "analysisFactor3",
+            "columnName": "analysisFactor3",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "analysisFactor4",
+            "columnName": "analysisFactor4",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "analysisFactor5",
+            "columnName": "analysisFactor5",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "analysisFactor6",
+            "columnName": "analysisFactor6",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "analysisText",
+            "columnName": "analysisText",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "analysisSuggestion",
+            "columnName": "analysisSuggestion",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "analysisConfidenceNote",
+            "columnName": "analysisConfidenceNote",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "analysisProvider",
+            "columnName": "analysisProvider",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "analysisVersion",
+            "columnName": "analysisVersion",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "analysisStatus",
+            "columnName": "analysisStatus",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "schemaVersion",
+            "columnName": "schemaVersion",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "engineVersion",
+            "columnName": "engineVersion",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "castAtEpochMillis",
+            "columnName": "castAtEpochMillis",
+            "affinity": "INTEGER",
+            "notNull": false
+          },
+          {
+            "fieldPath": "timezoneId",
+            "columnName": "timezoneId",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "utcOffsetSeconds",
+            "columnName": "utcOffsetSeconds",
+            "affinity": "INTEGER",
+            "notNull": false
+          },
+          {
+            "fieldPath": "professionalGenerationStatus",
+            "columnName": "professionalGenerationStatus",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "professionalRulesetId",
+            "columnName": "professionalRulesetId",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "professionalRulesetVersion",
+            "columnName": "professionalRulesetVersion",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "professionalVerificationStatus",
+            "columnName": "professionalVerificationStatus",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "professionalSnapshotJson",
+            "columnName": "professionalSnapshotJson",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "professionalErrorCode",
+            "columnName": "professionalErrorCode",
+            "affinity": "TEXT",
+            "notNull": false
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": false,
+          "columnNames": [
+            "id"
+          ]
+        },
+        "indices": [],
+        "foreignKeys": []
+      },
+      {
+        "tableName": "analysis_revisions",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`id` TEXT NOT NULL, `divinationId` TEXT NOT NULL, `createdAtEpochMillis` INTEGER NOT NULL, `status` TEXT NOT NULL, `providerId` TEXT NOT NULL, `modelId` TEXT, `promptVersion` TEXT NOT NULL, `analysisSchemaVersion` INTEGER NOT NULL, `requestId` TEXT, `payloadJson` TEXT, `errorCode` TEXT, PRIMARY KEY(`id`), FOREIGN KEY(`divinationId`) REFERENCES `divination_records`(`id`) ON UPDATE NO ACTION ON DELETE CASCADE )",
+        "fields": [
+          {
+            "fieldPath": "id",
+            "columnName": "id",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "divinationId",
+            "columnName": "divinationId",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "createdAtEpochMillis",
+            "columnName": "createdAtEpochMillis",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "status",
+            "columnName": "status",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "providerId",
+            "columnName": "providerId",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "modelId",
+            "columnName": "modelId",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "promptVersion",
+            "columnName": "promptVersion",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "analysisSchemaVersion",
+            "columnName": "analysisSchemaVersion",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "requestId",
+            "columnName": "requestId",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "payloadJson",
+            "columnName": "payloadJson",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "errorCode",
+            "columnName": "errorCode",
+            "affinity": "TEXT",
+            "notNull": false
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": false,
+          "columnNames": [
+            "id"
+          ]
+        },
+        "indices": [
+          {
+            "name": "index_analysis_revisions_divinationId",
+            "unique": false,
+            "columnNames": [
+              "divinationId"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_analysis_revisions_divinationId` ON `${TABLE_NAME}` (`divinationId`)"
+          }
+        ],
+        "foreignKeys": [
+          {
+            "table": "divination_records",
+            "onDelete": "CASCADE",
+            "onUpdate": "NO ACTION",
+            "columns": [
+              "divinationId"
+            ],
+            "referencedColumns": [
+              "id"
+            ]
+          }
+        ]
+      }
+    ],
+    "views": [],
+    "setupQueries": [
+      "CREATE TABLE IF NOT EXISTS room_master_table (id INTEGER PRIMARY KEY,identity_hash TEXT)",
+      "INSERT OR REPLACE INTO room_master_table (id,identity_hash) VALUES(42, '272970737705801829e5bc7902afce77')"
+    ]
+  }
+}

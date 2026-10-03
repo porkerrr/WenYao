@@ -1,0 +1,9 @@
+// Isolated Round 1 device verification. Reuses the actual app and never reads personal app data.
+allprojects {
+    plugins.withId('com.android.application') {
+        androidComponents.finalizeDsl { extension ->
+            extension.defaultConfig.applicationId = 'com.peterpork.liuyao.motionreview'
+            extension.defaultConfig.testApplicationId = 'com.peterpork.liuyao.motionreview.test'
+        }
+    }
+}

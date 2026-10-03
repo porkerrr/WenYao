@@ -1,0 +1,39 @@
+name: Bug 报告
+description: 报告可以复现的应用或构建问题
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: "请勿公开 API Key、Key 后四位、Token、签名文件、个人问题或私人日志。安全漏洞请按 SECURITY.md 使用私密渠道。"
+  - type: textarea
+    id: environment
+    attributes:
+      label: 版本与环境
+      description: 应用版本或 commit、设备型号、Android API；构建问题补充系统和 JDK 版本。
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: 复现步骤
+      description: 使用公开示例问题，提供最少操作步骤。
+    validations:
+      required: true
+  - type: textarea
+    id: behavior
+    attributes:
+      label: 预期行为与实际行为
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 已脱敏的证据
+      description: 可选截图、错误类型或最小日志；不要上传完整设备 dump、Key 或私人路径。
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: 隐私检查
+      options:
+        - label: 我已检查正文和附件，不含凭据、个人历史或其他敏感信息。
+          required: true

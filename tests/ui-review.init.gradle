@@ -1,0 +1,6 @@
+// Opt-in UI verification package: avoids replacing another task's signed test APK.
+allprojects {
+    plugins.withId('com.android.application') {
+        android.defaultConfig.testApplicationId = 'com.peterpork.liuyao.uireview.test'
+    }
+}

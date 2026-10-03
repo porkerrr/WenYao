@@ -1,0 +1,418 @@
+[
+  {
+    "file": "lunar-java-1.7.7-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/6tail/lunar-java/0194eb4574f33ab056fe7cac62a9d8bf24272478/LICENSE",
+    "sha256": "d9210caf1844dcf410095cea464b79800aad30dbd49df092076b9f0ddc015404",
+    "status": "downloaded"
+  },
+  {
+    "file": "sceneview-2.2.1-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/SceneView/sceneview-android/v2.2.1/LICENSE",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "status": "downloaded"
+  },
+  {
+    "file": "filament-1.52.0-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/google/filament/v1.52.0/LICENSE",
+    "sha256": "02d70b593dd8e9355dd8e1ca8d13c303bee5bcaf3065b66ff6e4f534e1e6a2c1",
+    "status": "downloaded"
+  },
+  {
+    "file": "liuyao-divination-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/Johnson-Jia/liuyao-divination/1a5a78b513c0e7b46dfb29f74043bcf978c32a3e/LICENSE",
+    "sha256": "395f8918cfb9b36d4c02ee3aa9f3d7600855ea8e35f444387b48245385834634",
+    "status": "downloaded"
+  },
+  {
+    "file": "najia-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/bopo/najia/9cf119169d7eb8e48febc05274aebf3f7106d647/LICENSE",
+    "sha256": "041f69ab8b03575a0229e12ddd886df6452881b31422001a9df0917854cbda8e",
+    "status": "downloaded"
+  },
+  {
+    "file": "yaomancy-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/yaomancy/liuyao-engine/53291663a4c733c4cbdfa174a8d3075475c07fd3/LICENSE",
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "status": "downloaded"
+  },
+  {
+    "file": "yaomancy-NOTICE.txt",
+    "url": "https://raw.githubusercontent.com/yaomancy/liuyao-engine/53291663a4c733c4cbdfa174a8d3075475c07fd3/NOTICE",
+    "sha256": "5b5231506e4daf9de323e40ea7d6858508d1f68d1e8548a79a0d5462b097cf95",
+    "status": "downloaded"
+  },
+  {
+    "file": "lottie-6.6.2-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/airbnb/lottie-android/v6.6.2/LICENSE",
+    "sha256": "c5accbbd8546e94c34aed24afe689a617627d18eed5a6c48277e48db57c23851",
+    "status": "downloaded"
+  },
+  {
+    "file": "kotlin-2.0.21-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/JetBrains/kotlin/v2.0.21/license/LICENSE.txt",
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "status": "downloaded"
+  },
+  {
+    "file": "kotlinx-serialization-1.7.3-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/Kotlin/kotlinx.serialization/v1.7.3/LICENSE.txt",
+    "sha256": "c5accbbd8546e94c34aed24afe689a617627d18eed5a6c48277e48db57c23851",
+    "status": "downloaded"
+  },
+  {
+    "file": "kotlinx-coroutines-1.9.0-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/Kotlin/kotlinx.coroutines/1.9.0/LICENSE.txt",
+    "sha256": "b1febe6399dffb10d19d35e7663ab16300c93cb0476a94115df1cc0097a8ffd8",
+    "status": "downloaded"
+  },
+  {
+    "file": "okhttp-4.12.0-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/square/okhttp/parent-4.12.0/LICENSE.txt",
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "status": "downloaded"
+  },
+  {
+    "file": "okio-3.6.0-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/square/okio/parent-3.6.0/LICENSE.txt",
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "status": "downloaded"
+  },
+  {
+    "file": "androidx-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/androidx/androidx/androidx-main/LICENSE.txt",
+    "sha256": "809fa1ed21450f59827d1e9aec720bbc4b687434fa22283c6cb5dd82a47ab9c0",
+    "status": "downloaded"
+  },
+  {
+    "file": "kotlin-math-1.5.3-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/romainguy/kotlin-math/v1.5.3/LICENSE",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "status": "downloaded"
+  },
+  {
+    "file": "fuel-2.3.1-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/kittinunf/fuel/2.3.1/LICENSE.md",
+    "status": "downloaded",
+    "sha256": "9395ac61a063610eeaafcd00c8381e92ac77f35674f478c552af0c3cc4ce32a6"
+  },
+  {
+    "file": "result-3.1.0-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/kittinunf/result/3.1.0/LICENSE.md",
+    "status": "downloaded",
+    "sha256": "79ba4ae55a7ef28ebeb28dd3a2bccfb6a8ccf8cb6ae828be449583c649f7b408"
+  },
+  {
+    "file": "junit-4.13.2-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/junit-team/junit4/r4.13.2/LICENSE-junit.txt",
+    "sha256": "9648bb2891b9813970bddb68d4be8a5e6ec8280d0180a53dfb29236b579c55bb",
+    "status": "downloaded"
+  },
+  {
+    "file": "gradle-8.7-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/gradle/gradle/v8.7.0/LICENSE",
+    "sha256": "9536d88ea948603d18e232a13f5958d67807cd80828036b082bff171d2cf0703",
+    "status": "downloaded"
+  },
+  {
+    "file": "fastapi-0.115.6-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/fastapi/fastapi/0.115.6/LICENSE",
+    "sha256": "4ec89ffc81485b97fec584b2d4a961032eeffe834453894fd9c1274906cc744e",
+    "status": "downloaded"
+  },
+  {
+    "file": "httpx-0.28.1-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/encode/httpx/0.28.1/LICENSE.md",
+    "sha256": "4ec59d544f12b5f539a3a716fd321ac58ccd8030b465221f2c880200cdf28d8d",
+    "status": "downloaded"
+  },
+  {
+    "file": "pydantic-2.10.4-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/pydantic/pydantic/v2.10.4/LICENSE",
+    "sha256": "a9e186f3ca16b5eef84318e7a701721351a00cb7b8ae3a4394b67b49e3529ef3",
+    "status": "downloaded"
+  },
+  {
+    "file": "uvicorn-0.34.0-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/encode/uvicorn/0.34.0/LICENSE.md",
+    "sha256": "efe1acf3e62fb99c288b0ec73e5a773b7268ef4320fe757ea994214e4b63c371",
+    "status": "downloaded"
+  },
+  {
+    "file": "filament-1.52.0/third_party/cgltf/LICENSE",
+    "url": "https://raw.githubusercontent.com/google/filament/v1.52.0/third_party/cgltf/LICENSE",
+    "sha256": "f619925f80ef862497aaf8e8155ef218fa6a2190055129523ca3df9119a9ba95",
+    "status": "downloaded"
+  },
+  {
+    "file": "filament-1.52.0/third_party/meshoptimizer/LICENSE",
+    "url": "https://raw.githubusercontent.com/google/filament/v1.52.0/third_party/meshoptimizer/LICENSE",
+    "sha256": "063805e3b8e24ceab4c5dea358b03245ee41c31be87cf65c61d836636cb494bb",
+    "status": "downloaded"
+  },
+  {
+    "file": "filament-1.52.0/third_party/robin-map/LICENSE",
+    "url": "https://raw.githubusercontent.com/google/filament/v1.52.0/third_party/robin-map/LICENSE",
+    "sha256": "ee5db94aaa0398f12870270ef815d0efc64818caf68f06535d5754d2c4f99120",
+    "status": "downloaded"
+  },
+  {
+    "file": "filament-1.52.0/third_party/stb/LICENSE",
+    "url": "https://raw.githubusercontent.com/google/filament/v1.52.0/third_party/stb/LICENSE",
+    "sha256": "296bf9398cd1c82620d19cd623db6b880e31a266df7183141d49e486fc30c8da",
+    "status": "downloaded"
+  },
+  {
+    "file": "filament-1.52.0/third_party/basisu/LICENSE",
+    "url": "https://raw.githubusercontent.com/google/filament/v1.52.0/third_party/basisu/LICENSE",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "status": "downloaded"
+  },
+  {
+    "file": "filament-1.52.0/third_party/basisu/LICENSES/Apache-2.0.txt",
+    "url": "https://raw.githubusercontent.com/google/filament/v1.52.0/third_party/basisu/LICENSES/Apache-2.0.txt",
+    "sha256": "44b0a56e80b41a1b0a6bd1292515e806539fd97b30be54c2719e6c763190ab57",
+    "status": "downloaded"
+  },
+  {
+    "file": "filament-1.52.0/third_party/basisu/LICENSES/BSD.txt",
+    "url": "https://raw.githubusercontent.com/google/filament/v1.52.0/third_party/basisu/LICENSES/BSD.txt",
+    "sha256": "d9b84105b8b5dd11fd0a63795ec2143be969af03aca3ac461066609d99e0f29b",
+    "status": "downloaded"
+  },
+  {
+    "file": "filament-1.52.0/third_party/basisu/LICENSES/Zlib.txt",
+    "url": "https://raw.githubusercontent.com/google/filament/v1.52.0/third_party/basisu/LICENSES/Zlib.txt",
+    "sha256": "2259b985e96b3fec86eae5afc92e05691d9540073b3fb91cc06c120c507be9a0",
+    "status": "downloaded"
+  },
+  {
+    "file": "filament-1.52.0/third_party/basisu/zstd/LICENSE",
+    "url": "https://raw.githubusercontent.com/google/filament/v1.52.0/third_party/basisu/zstd/LICENSE",
+    "sha256": "2c1a7fa704df8f3a606f6fc010b8b5aaebf403f3aeec339a12048f1ba7331a0b",
+    "status": "downloaded"
+  },
+  {
+    "file": "filament-1.52.0/third_party/draco/LICENSE",
+    "url": "https://raw.githubusercontent.com/google/filament/v1.52.0/third_party/draco/LICENSE",
+    "sha256": "d3709b0fb4b8a94bbb1d02b8a2e484f258b0d9c5c5a01f940391f3fe662cd1a4",
+    "status": "downloaded"
+  },
+  {
+    "file": "filament-1.52.0/third_party/civetweb/LICENSE.md",
+    "url": "https://raw.githubusercontent.com/google/filament/v1.52.0/third_party/civetweb/LICENSE.md",
+    "sha256": "1cd00da00b8649b4005757f4019acfd3102ecd407f47998081697e8e9086f706",
+    "status": "downloaded"
+  },
+  {
+    "file": "filament-1.52.0/third_party/glslang/LICENSE",
+    "url": "https://raw.githubusercontent.com/google/filament/v1.52.0/third_party/glslang/LICENSE",
+    "sha256": "42ffa20349670c33bff23cec16858121d1bc6174f89efc86b3413f176708e5db",
+    "status": "downloaded"
+  },
+  {
+    "file": "filament-1.52.0/third_party/glslang/LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/google/filament/v1.52.0/third_party/glslang/LICENSE.txt",
+    "sha256": "adb783e734e906d1f46db5df29991dbde84bdb0ceab502ac2febb44fe3c2b5f4",
+    "status": "downloaded"
+  },
+  {
+    "file": "filament-1.52.0/third_party/spirv-cross/LICENSE",
+    "url": "https://raw.githubusercontent.com/google/filament/v1.52.0/third_party/spirv-cross/LICENSE",
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "status": "downloaded"
+  },
+  {
+    "file": "filament-1.52.0/third_party/spirv-headers/LICENSE",
+    "url": "https://raw.githubusercontent.com/google/filament/v1.52.0/third_party/spirv-headers/LICENSE",
+    "sha256": "9b243f6f0bf44e295ff411a0f7b7642d1d0dff7cdc42507e9f7206f439e51b5a",
+    "status": "downloaded"
+  },
+  {
+    "file": "filament-1.52.0/third_party/spirv-tools/LICENSE",
+    "url": "https://raw.githubusercontent.com/google/filament/v1.52.0/third_party/spirv-tools/LICENSE",
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "status": "downloaded"
+  },
+  {
+    "file": "filament-1.52.0/third_party/smol-v/LICENSE",
+    "url": "https://raw.githubusercontent.com/google/filament/v1.52.0/third_party/smol-v/LICENSE",
+    "sha256": "9cea538cc1ee6680f4d13e212bfef5b581cd5d873cbedf6dc07699dbe7e69651",
+    "status": "downloaded"
+  },
+  {
+    "file": "filament-1.52.0/third_party/vkmemalloc/LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/google/filament/v1.52.0/third_party/vkmemalloc/LICENSE.txt",
+    "sha256": "cdb520614db3ec62e667ece01e64e6afa21948fa51e85e748b1494597a7be907",
+    "status": "downloaded"
+  },
+  {
+    "file": "filament-1.52.0/third_party/libz/LICENSE",
+    "url": "https://raw.githubusercontent.com/google/filament/v1.52.0/third_party/libz/LICENSE",
+    "sha256": "845efc77857d485d91fb3e0b884aaa929368c717ae8186b66fe1ed2495753243",
+    "status": "downloaded"
+  },
+  {
+    "file": "filament-1.52.0/third_party/imgui/LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/google/filament/v1.52.0/third_party/imgui/LICENSE.txt",
+    "sha256": "fbb51424cf27ca216445d4b472c6aac187ebd8200f7ef41bd845a7d36d54e2c4",
+    "status": "downloaded"
+  },
+  {
+    "file": "filament-1.52.0/filament/src/materials/fsr/license.txt",
+    "url": "https://raw.githubusercontent.com/google/filament/v1.52.0/filament/src/materials/fsr/license.txt",
+    "sha256": "db089274ce766da70f5b7d791029c3486f9f9e27c8c79c652689603d3192e802",
+    "status": "downloaded"
+  },
+  {
+    "file": "filament-1.52.0/third_party/hat-trie/LICENSE",
+    "url": "https://raw.githubusercontent.com/google/filament/v1.52.0/third_party/hat-trie/LICENSE",
+    "sha256": "11f2c685ba565a31aef1219f63a7a8845602c97bff70016b9e3278dfe51a2ec5",
+    "status": "downloaded"
+  },
+  {
+    "file": "filament-1.52.0/third_party/libpng/LICENSE",
+    "url": "https://raw.githubusercontent.com/google/filament/v1.52.0/third_party/libpng/LICENSE",
+    "sha256": "dd877f3b9d7650e1dd5aa6272964a9437d0b4050ef3dd1987c1cf8853918eabb",
+    "status": "downloaded"
+  },
+  {
+    "file": "filament-1.52.0/third_party/tinyexr/LICENSE",
+    "url": "https://raw.githubusercontent.com/google/filament/v1.52.0/third_party/tinyexr/LICENSE",
+    "sha256": "fd4c3c88bbabf45aa732f2ea7c0f393074c0511ba4c7cb194592b38f9c8aa255",
+    "status": "downloaded"
+  },
+  {
+    "file": "guava-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/google/guava/v23.0/COPYING",
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "status": "downloaded"
+  },
+  {
+    "file": "jetbrains-annotations-23.0.0-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/JetBrains/java-annotations/23.0.0/LICENSE.txt",
+    "sha256": "8c1e966c7855fb54027bcaf6ebe7a43abe4785791e8cf9148c363761d493d097",
+    "status": "downloaded"
+  },
+  {
+    "file": "kotlin-1.9.22-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/JetBrains/kotlin/v1.9.22/license/LICENSE.txt",
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "status": "downloaded"
+  },
+  {
+    "file": "kotlin-1.9.21-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/JetBrains/kotlin/v1.9.21/license/LICENSE.txt",
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "status": "downloaded"
+  },
+  {
+    "file": "artifacts/androidx.activity_activity-compose_1.10.0/META-INF/androidx/activity/activity-compose/LICENSE.txt",
+    "url": "https://dl.google.com/dl/android/maven2/androidx/activity/activity-compose/1.10.0/activity-compose-1.10.0.pom",
+    "sha256": "809fa1ed21450f59827d1e9aec720bbc4b687434fa22283c6cb5dd82a47ab9c0",
+    "status": "downloaded",
+    "artifact_sha256": "5217dd9df8556bdea9a2bb54a94720dd1f5d7d5925db5033ede7410b1ff60493",
+    "artifact_entry": "META-INF/androidx/activity/activity-compose/LICENSE.txt"
+  },
+  {
+    "file": "artifacts/androidx.activity_activity-ktx_1.10.0/META-INF/androidx/activity/activity-ktx/LICENSE.txt",
+    "url": "https://dl.google.com/dl/android/maven2/androidx/activity/activity-ktx/1.10.0/activity-ktx-1.10.0.pom",
+    "sha256": "809fa1ed21450f59827d1e9aec720bbc4b687434fa22283c6cb5dd82a47ab9c0",
+    "status": "downloaded",
+    "artifact_sha256": "3b8e0c51e8aa1a32efb6b2d4181a67dc80784789c166bfe307f70ee44185d510",
+    "artifact_entry": "META-INF/androidx/activity/activity-ktx/LICENSE.txt"
+  },
+  {
+    "file": "artifacts/androidx.activity_activity_1.10.0/META-INF/androidx/activity/activity/LICENSE.txt",
+    "url": "https://dl.google.com/dl/android/maven2/androidx/activity/activity/1.10.0/activity-1.10.0.pom",
+    "sha256": "809fa1ed21450f59827d1e9aec720bbc4b687434fa22283c6cb5dd82a47ab9c0",
+    "status": "downloaded",
+    "artifact_sha256": "c72301bc7307769cd6c3e0edb8da5837e7dea6fd89a5cdedfcfc87bd581850e1",
+    "artifact_entry": "META-INF/androidx/activity/activity/LICENSE.txt"
+  },
+  {
+    "file": "artifacts/androidx.core_core-ktx_1.15.0/META-INF/androidx/core/core-ktx/LICENSE.txt",
+    "url": "https://dl.google.com/dl/android/maven2/androidx/core/core-ktx/1.15.0/core-ktx-1.15.0.pom",
+    "sha256": "809fa1ed21450f59827d1e9aec720bbc4b687434fa22283c6cb5dd82a47ab9c0",
+    "status": "downloaded",
+    "artifact_sha256": "c72c97ff4a32308bcaf3061eea5ddf33455ce413cee4aa1d5c82440c5759d4bc",
+    "artifact_entry": "META-INF/androidx/core/core-ktx/LICENSE.txt"
+  },
+  {
+    "file": "artifacts/androidx.core_core_1.15.0/META-INF/androidx/core/core/LICENSE.txt",
+    "url": "https://dl.google.com/dl/android/maven2/androidx/core/core/1.15.0/core-1.15.0.pom",
+    "sha256": "809fa1ed21450f59827d1e9aec720bbc4b687434fa22283c6cb5dd82a47ab9c0",
+    "status": "downloaded",
+    "artifact_sha256": "432b85a1974076e14b487ece4a28c59a84f1b9efc3fc8be72cd7f05d32055e51",
+    "artifact_entry": "META-INF/androidx/core/core/LICENSE.txt"
+  },
+  {
+    "file": "artifacts/androidx.navigation_navigation-common-ktx_2.8.5/META-INF/androidx/navigation/navigation-common-ktx/LICENSE.txt",
+    "url": "https://dl.google.com/dl/android/maven2/androidx/navigation/navigation-common-ktx/2.8.5/navigation-common-ktx-2.8.5.pom",
+    "sha256": "809fa1ed21450f59827d1e9aec720bbc4b687434fa22283c6cb5dd82a47ab9c0",
+    "status": "downloaded",
+    "artifact_sha256": "07c030ba22669211acbbe454fc4756a57d8bc1fcf016c4c079988f850407958f",
+    "artifact_entry": "META-INF/androidx/navigation/navigation-common-ktx/LICENSE.txt"
+  },
+  {
+    "file": "artifacts/androidx.navigation_navigation-common_2.8.5/META-INF/androidx/navigation/navigation-common/LICENSE.txt",
+    "url": "https://dl.google.com/dl/android/maven2/androidx/navigation/navigation-common/2.8.5/navigation-common-2.8.5.pom",
+    "sha256": "809fa1ed21450f59827d1e9aec720bbc4b687434fa22283c6cb5dd82a47ab9c0",
+    "status": "downloaded",
+    "artifact_sha256": "e583668db7b1800207a01f88e975ca738f8f226dfa2804d1a67b6efb3aa95ee5",
+    "artifact_entry": "META-INF/androidx/navigation/navigation-common/LICENSE.txt"
+  },
+  {
+    "file": "artifacts/androidx.navigation_navigation-compose_2.8.5/META-INF/androidx/navigation/navigation-compose/LICENSE.txt",
+    "url": "https://dl.google.com/dl/android/maven2/androidx/navigation/navigation-compose/2.8.5/navigation-compose-2.8.5.pom",
+    "sha256": "809fa1ed21450f59827d1e9aec720bbc4b687434fa22283c6cb5dd82a47ab9c0",
+    "status": "downloaded",
+    "artifact_sha256": "3a8e74dcc9ba2e3c6f3c25e574e75bf4bc30cf9d9e4c7a54c5b3d275e8570333",
+    "artifact_entry": "META-INF/androidx/navigation/navigation-compose/LICENSE.txt"
+  },
+  {
+    "file": "artifacts/androidx.navigation_navigation-runtime-ktx_2.8.5/META-INF/androidx/navigation/navigation-runtime-ktx/LICENSE.txt",
+    "url": "https://dl.google.com/dl/android/maven2/androidx/navigation/navigation-runtime-ktx/2.8.5/navigation-runtime-ktx-2.8.5.pom",
+    "sha256": "809fa1ed21450f59827d1e9aec720bbc4b687434fa22283c6cb5dd82a47ab9c0",
+    "status": "downloaded",
+    "artifact_sha256": "55f186212403e85632bf091f3abe78d16b5851b0856dcaa635efddb94773f63e",
+    "artifact_entry": "META-INF/androidx/navigation/navigation-runtime-ktx/LICENSE.txt"
+  },
+  {
+    "file": "artifacts/androidx.navigation_navigation-runtime_2.8.5/META-INF/androidx/navigation/navigation-runtime/LICENSE.txt",
+    "url": "https://dl.google.com/dl/android/maven2/androidx/navigation/navigation-runtime/2.8.5/navigation-runtime-2.8.5.pom",
+    "sha256": "809fa1ed21450f59827d1e9aec720bbc4b687434fa22283c6cb5dd82a47ab9c0",
+    "status": "downloaded",
+    "artifact_sha256": "9747b791f8651c0c311c90669de66043c9ce3d7a8057606fee41ad3c3bc50f63",
+    "artifact_entry": "META-INF/androidx/navigation/navigation-runtime/LICENSE.txt"
+  },
+  {
+    "file": "artifacts/androidx.profileinstaller_profileinstaller_1.4.0/META-INF/androidx/profileinstaller/profileinstaller/LICENSE.txt",
+    "url": "https://dl.google.com/dl/android/maven2/androidx/profileinstaller/profileinstaller/1.4.0/profileinstaller-1.4.0.pom",
+    "sha256": "809fa1ed21450f59827d1e9aec720bbc4b687434fa22283c6cb5dd82a47ab9c0",
+    "status": "downloaded",
+    "artifact_sha256": "d502141fcce902430f62b674c32aecd0f75262e7ee2cd15c74adb617cd13130a",
+    "artifact_entry": "META-INF/androidx/profileinstaller/profileinstaller/LICENSE.txt"
+  },
+  {
+    "file": "artifacts/com.squareup.okhttp3_okhttp_4.12.0/okhttp3/internal/publicsuffix/NOTICE",
+    "url": "https://repo.maven.apache.org/maven2/com/squareup/okhttp3/okhttp/4.12.0/okhttp-4.12.0.pom",
+    "sha256": "8a9c58fbded5ea3474315e4a9824ca8b1486098a1a03e897e0b19419d5e1876a",
+    "status": "downloaded",
+    "artifact_sha256": "b1050081b14bb7a3a7e55a4d3ef01b5dcfabc453b4573a4fc019767191d5f4e0",
+    "artifact_entry": "okhttp3/internal/publicsuffix/NOTICE"
+  },
+  {
+    "file": "MPL-2.0.txt",
+    "url": "https://www.mozilla.org/media/MPL/2.0/index.815ca599c9df.txt",
+    "sha256": "fab3dd6bdab226f1c08630b1dd917e11fcb4ec5e1e020e2c16f83a0a13863e85",
+    "status": "downloaded"
+  },
+  {
+    "file": "public_suffix_list-okhttp-4.12.0.dat",
+    "url": "https://raw.githubusercontent.com/square/okhttp/parent-4.12.0/okhttp/src/main/resources/okhttp3/internal/publicsuffix/publicsuffixes.gz",
+    "sha256": "912dfdac4703e7ddd7a4b91b89e04c03c1892f504ece06e3c261b7cd8649b89a",
+    "status": "downloaded",
+    "transformation": "Gzip decompression; decoded length-delimited UTF-8 rules and prefixed exception lines with !. No rule changes.",
+    "source_sha256": "9af43e9995ec749e7a30eec4e5a87770d7e2027847084a07cca82060eff0c791"
+  }
+]

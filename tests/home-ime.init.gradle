@@ -1,0 +1,9 @@
+// Real-window IME checks use a separate application ID and preserve the user's app/data.
+allprojects {
+    plugins.withId('com.android.application') {
+        androidComponents.finalizeDsl { extension ->
+            extension.defaultConfig.applicationId = 'com.peterpork.liuyao.imecheck'
+            extension.defaultConfig.testApplicationId = 'com.peterpork.liuyao.imecheck.test'
+        }
+    }
+}

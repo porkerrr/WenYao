@@ -1,0 +1,10 @@
+// Isolated navigation regression package and outputs; never use the personal app's storage.
+allprojects {
+    layout.buildDirectory.set(file("${rootDir}/app/build/navigation-back/${project.name}"))
+    plugins.withId('com.android.application') {
+        androidComponents.finalizeDsl { extension ->
+            extension.defaultConfig.applicationId = 'com.peterpork.liuyao.motionreview.navigationback'
+            extension.defaultConfig.testApplicationId = 'com.peterpork.liuyao.motionreview.navigationback.test'
+        }
+    }
+}

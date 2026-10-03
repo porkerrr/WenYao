@@ -1,0 +1,76 @@
+{
+  "schema": 1,
+  "sourceFps": 60,
+  "playbackSpeed": 1.25,
+  "holdSeconds": 0.15,
+  "stepPositionThreshold": 0.00015,
+  "stepAngleThreshold": 0.001,
+  "finalPositionTolerance": 0.0005,
+  "finalAngleTolerance": 0.002,
+  "results": {
+    "222": {
+      "sha256": "c32d412e4b065b89426518650f82329a713698b4e4463f1914a8b4bfb5d02a08",
+      "settledSourceSeconds": 3.1166666666666667,
+      "stableStartSample": 187,
+      "tailSamples": 173,
+      "maxTailPositionDeviation": 1.1656527993735948e-06,
+      "maxTailAngleDeviation": 4.754287812381486e-06
+    },
+    "223": {
+      "sha256": "d8053043fd62816cce3a51e414cf7bb33a316da7d9e47a4d870c63900f5e7190",
+      "settledSourceSeconds": 3.7666666666666666,
+      "stableStartSample": 226,
+      "tailSamples": 134,
+      "maxTailPositionDeviation": 3.280321844808461e-06,
+      "maxTailAngleDeviation": 1.8108534597509686e-05
+    },
+    "232": {
+      "sha256": "ff21ea36dbc6bf3a456f7bfd1b41cb555c38dbad205ada7ec8a58b7933635a7d",
+      "settledSourceSeconds": 3.15,
+      "stableStartSample": 189,
+      "tailSamples": 171,
+      "maxTailPositionDeviation": 2.498345323527927e-06,
+      "maxTailAngleDeviation": 8.41835163713166e-06
+    },
+    "233": {
+      "sha256": "d0be1c57d7c03b858ce2899e7039cb9434b6a4bb8b3918f695ba5de402715b05",
+      "settledSourceSeconds": 3.5,
+      "stableStartSample": 210,
+      "tailSamples": 150,
+      "maxTailPositionDeviation": 3.5775888768083654e-07,
+      "maxTailAngleDeviation": 1.4283367355253712e-06
+    },
+    "322": {
+      "sha256": "665c4917f6938bc7dca5afb1cea130fc8dbfbbfd2a2fda4e93b73efbef0c6e5d",
+      "settledSourceSeconds": 2.816666666666667,
+      "stableStartSample": 169,
+      "tailSamples": 191,
+      "maxTailPositionDeviation": 7.233205377663523e-07,
+      "maxTailAngleDeviation": 2.1031235175583555e-06
+    },
+    "323": {
+      "sha256": "a3e457d85cf9e4de3be777cfe1c7f48b323a9a60df1a6edb50d68f8c18c121f1",
+      "settledSourceSeconds": 3.316666666666667,
+      "stableStartSample": 199,
+      "tailSamples": 161,
+      "maxTailPositionDeviation": 6.905128800372071e-06,
+      "maxTailAngleDeviation": 2.3175555212215034e-05
+    },
+    "332": {
+      "sha256": "5a9ed10b23b8d8c231af356036c3d087bd8ac949b439313c2e5e4e757fbbfc41",
+      "settledSourceSeconds": 3.783333333333333,
+      "stableStartSample": 227,
+      "tailSamples": 133,
+      "maxTailPositionDeviation": 2.318651326621762e-06,
+      "maxTailAngleDeviation": 1.2764094963601053e-05
+    },
+    "333": {
+      "sha256": "7e32582d9a9597316e1c7042a213692efa4b0c59977ccf6f144855bbe83d8cd6",
+      "settledSourceSeconds": 5.2,
+      "stableStartSample": 312,
+      "tailSamples": 48,
+      "maxTailPositionDeviation": 5.972094663188382e-08,
+      "maxTailAngleDeviation": 7.868038882281882e-07
+    }
+  }
+}

@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.WenYao" parent="Base.Theme.WenYao">
+        <item name="android:navigationBarColor">@color/launcher_background</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+</resources>

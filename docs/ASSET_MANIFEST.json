@@ -1,0 +1,127 @@
+[
+  {
+    "path": "app/src/debug/assets/coin_preview/three_coins.glb",
+    "sha256": "40aee0b0c75ba7f3bcf289926db0eebe107da3d0065419290244c311290a1218",
+    "license": "All rights reserved; see ASSET_LICENSE.md"
+  },
+  {
+    "path": "app/src/debug/assets/coin_preview_round2/three_coins.glb",
+    "sha256": "c3268aee6dd93edaa8e0c9ff11c682bdc00069ac1aef32f57870507c92e11535",
+    "license": "All rights reserved; see ASSET_LICENSE.md"
+  },
+  {
+    "path": "app/src/main/assets/coin_preview_eight/222/three_coins.glb",
+    "sha256": "c32d412e4b065b89426518650f82329a713698b4e4463f1914a8b4bfb5d02a08",
+    "license": "All rights reserved; see ASSET_LICENSE.md"
+  },
+  {
+    "path": "app/src/main/assets/coin_preview_eight/223/three_coins.glb",
+    "sha256": "d8053043fd62816cce3a51e414cf7bb33a316da7d9e47a4d870c63900f5e7190",
+    "license": "All rights reserved; see ASSET_LICENSE.md"
+  },
+  {
+    "path": "app/src/main/assets/coin_preview_eight/232/three_coins.glb",
+    "sha256": "ff21ea36dbc6bf3a456f7bfd1b41cb555c38dbad205ada7ec8a58b7933635a7d",
+    "license": "All rights reserved; see ASSET_LICENSE.md"
+  },
+  {
+    "path": "app/src/main/assets/coin_preview_eight/233/three_coins.glb",
+    "sha256": "d0be1c57d7c03b858ce2899e7039cb9434b6a4bb8b3918f695ba5de402715b05",
+    "license": "All rights reserved; see ASSET_LICENSE.md"
+  },
+  {
+    "path": "app/src/main/assets/coin_preview_eight/322/three_coins.glb",
+    "sha256": "665c4917f6938bc7dca5afb1cea130fc8dbfbbfd2a2fda4e93b73efbef0c6e5d",
+    "license": "All rights reserved; see ASSET_LICENSE.md"
+  },
+  {
+    "path": "app/src/main/assets/coin_preview_eight/323/three_coins.glb",
+    "sha256": "a3e457d85cf9e4de3be777cfe1c7f48b323a9a60df1a6edb50d68f8c18c121f1",
+    "license": "All rights reserved; see ASSET_LICENSE.md"
+  },
+  {
+    "path": "app/src/main/assets/coin_preview_eight/332/three_coins.glb",
+    "sha256": "5a9ed10b23b8d8c231af356036c3d087bd8ac949b439313c2e5e4e757fbbfc41",
+    "license": "All rights reserved; see ASSET_LICENSE.md"
+  },
+  {
+    "path": "app/src/main/assets/coin_preview_eight/333/three_coins.glb",
+    "sha256": "7e32582d9a9597316e1c7042a213692efa4b0c59977ccf6f144855bbe83d8cd6",
+    "license": "All rights reserved; see ASSET_LICENSE.md"
+  },
+  {
+    "path": "app/src/main/res/drawable-nodpi/paper_fiber_texture.png",
+    "sha256": "c14aaeb7d44afe0de0972c99c5b41562bec38187814d27713b3ec1517240c5d9",
+    "license": "All rights reserved; see ASSET_LICENSE.md"
+  },
+  {
+    "path": "app/src/main/res/drawable-nodpi/wenyao_wordmark.png",
+    "sha256": "172bb3d92151fb119c08a841c493462e88103d84e136d9e5e66ab94470b566eb",
+    "license": "All rights reserved; see ASSET_LICENSE.md"
+  },
+  {
+    "path": "app/src/main/res/drawable-xxxhdpi/ic_launcher_foreground.png",
+    "sha256": "4925009733e172c1c3b824662b68dadbda1e65db781e1293e8058b72756033b5",
+    "license": "All rights reserved; see ASSET_LICENSE.md"
+  },
+  {
+    "path": "app/src/main/res/mipmap-hdpi/ic_launcher.png",
+    "sha256": "3652161ede45ba73b210af6164b7ce6c31e50b2965eedebc77e1a389cfdd7870",
+    "license": "All rights reserved; see ASSET_LICENSE.md"
+  },
+  {
+    "path": "app/src/main/res/mipmap-hdpi/ic_launcher_round.png",
+    "sha256": "db770a86d689a17b7f3144a0e8f21645df06a0fa452ad90ac2c84b2b22f85bdd",
+    "license": "All rights reserved; see ASSET_LICENSE.md"
+  },
+  {
+    "path": "app/src/main/res/mipmap-mdpi/ic_launcher.png",
+    "sha256": "f36afdf76e1d1650afc690829ce486a1b3f97513a254c7dc212b59b8aab209bf",
+    "license": "All rights reserved; see ASSET_LICENSE.md"
+  },
+  {
+    "path": "app/src/main/res/mipmap-mdpi/ic_launcher_round.png",
+    "sha256": "90b63399538c3e126b1a123ad3637cd89a956bb0e2231013781dd0112906048c",
+    "license": "All rights reserved; see ASSET_LICENSE.md"
+  },
+  {
+    "path": "app/src/main/res/mipmap-xhdpi/ic_launcher.png",
+    "sha256": "1555ece45efbe70a59ae860cabbf763c24db9c4f0353da23b30088f5d7cf0a00",
+    "license": "All rights reserved; see ASSET_LICENSE.md"
+  },
+  {
+    "path": "app/src/main/res/mipmap-xhdpi/ic_launcher_round.png",
+    "sha256": "d4441d184fad4a88cf10bc33c9c2c383e2ea0fa1fcad1d38b47db8a885ed7bfd",
+    "license": "All rights reserved; see ASSET_LICENSE.md"
+  },
+  {
+    "path": "app/src/main/res/mipmap-xxhdpi/ic_launcher.png",
+    "sha256": "522fc0e6649ed199f40e4e33816378a000585dad5a627249d772ac4162a39a3b",
+    "license": "All rights reserved; see ASSET_LICENSE.md"
+  },
+  {
+    "path": "app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png",
+    "sha256": "7e5cacf059534a08ead05a9633fbbcabf47ec94220f1f3cbcb1c4b21248db46d",
+    "license": "All rights reserved; see ASSET_LICENSE.md"
+  },
+  {
+    "path": "app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+    "sha256": "9ea49349a5152f2874359c39a87fb2dcdfe93d691621b36cf08d6e62ca43f453",
+    "license": "All rights reserved; see ASSET_LICENSE.md"
+  },
+  {
+    "path": "app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png",
+    "sha256": "08a2bed78f489cc0d8aaf57dd5b0c4ebf11593195f8e8383202a2c2a56581a73",
+    "license": "All rights reserved; see ASSET_LICENSE.md"
+  },
+  {
+    "path": "app/src/main/res/raw/wenyao_brush_mask.json",
+    "sha256": "98a809476cc6fe3158621f117e1bad6340e42cc6fb9cc78987e9bceea2271482",
+    "license": "All rights reserved; see ASSET_LICENSE.md"
+  },
+  {
+    "path": "app/src/main/res/raw/wenyao_ink.json",
+    "sha256": "72a58472d3cc9299aafef57acf196d034bbf0f0df0e0c91288fd021111ed765a",
+    "license": "All rights reserved; see ASSET_LICENSE.md"
+  }
+]

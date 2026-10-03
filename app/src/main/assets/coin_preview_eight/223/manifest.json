@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "result": "223",
+  "blender": "5.2.2 LTS",
+  "fps": 60,
+  "startFrame": 1,
+  "endFrame": 360,
+  "durationSeconds": 5.983333333333333,
+  "nodes": [
+    "coin_0",
+    "coin_1",
+    "coin_2"
+  ],
+  "scores": [
+    2,
+    2,
+    3
+  ],
+  "total": 7,
+  "localPositiveZScore": 3,
+  "localNegativeZScore": 2,
+  "stableFrames": 134,
+  "releaseFrame": 5,
+  "radius": 0.35,
+  "halfHeight": 0.035,
+  "coordinates": "Blender Z-up -> glTF Y-up: (x,y,z) -> (x,z,-y)",
+  "collision": "16-sided convex disk; square hole filled in collision proxy only",
+  "seed": 25,
+  "appearance": "Reference A accepted by user; reverse J1/J2 historical details pending",
+  "animation": "Scene",
+  "sha256": "d8053043fd62816cce3a51e414cf7bb33a316da7d9e47a4d870c63900f5e7190",
+  "file": "coins_223.glb",
+  "finalTranslations": [
+    [
+      -0.5875875353813171,
+      0.035999998450279236,
+      0.7929658889770508
+    ],
+    [
+      0.06580167263746262,
+      0.035999998450279236,
+      0.1296730637550354
+    ],
+    [
+      1.2035548686981201,
+      0.035999998450279236,
+      0.003804266219958663
+    ]
+  ]
+}

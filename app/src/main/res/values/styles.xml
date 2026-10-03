@@ -1,0 +1,11 @@
+<resources>
+    <style name="Base.Theme.WenYao" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowBackground">@color/launcher_background</item>
+        <item name="android:colorAccent">#AD483C</item>
+        <item name="android:navigationBarColor">#1C1B1A</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+    <style name="Theme.WenYao" parent="Base.Theme.WenYao" />
+</resources>

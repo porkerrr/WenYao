@@ -1,0 +1,10 @@
+<resources>
+    <!-- Keep the platform starting window, but leave its icon slot empty. -->
+    <style name="Theme.WenYao" parent="Base.Theme.WenYao">
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/splash_empty_icon</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">@android:color/transparent</item>
+        <item name="android:windowSplashScreenBackground">@color/launcher_background</item>
+        <item name="android:navigationBarColor">@color/launcher_background</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+</resources>

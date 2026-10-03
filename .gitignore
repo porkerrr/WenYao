@@ -1,0 +1,52 @@
+.gradle/
+.gradle-user-home/
+.kotlin/
+.android-user-home/
+.android-home/
+.android-sdk-home/
+.idea/
+local.properties
+**/build/
+*.iml
+*.apk
+*.aab
+.venv/
+__pycache__/
+*.pyc
+
+# Machine-local configuration and credentials (examples may use placeholders).
+.local/
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+*.p12
+*.pfx
+signing.properties
+secrets.properties
+.codex/config.toml
+
+# IDE caches and operating-system temporary files.
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*.tmp
+*.log
+*.hprof
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Generated review packages and nested experimental Android build outputs.
+/wenyao_*_review.zip
+/wenyao_*_assets.zip
+/wenyao_*_review/
+**/android-build/
+
+# Local release artifacts and companion packages.
+/app/release/
+/release-artifacts/

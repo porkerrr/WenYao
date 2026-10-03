@@ -1,0 +1,5 @@
+// Keep this round's verification artifacts separate from concurrent debug preview builds.
+// Combine with motion.init.gradle for the existing public-data isolated application id.
+allprojects {
+    layout.buildDirectory.set(file("${rootDir}/app/build/motion-round4/verification/${project.name}"))
+}

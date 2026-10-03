@@ -1,0 +1,9 @@
+// Optional real-app screenshot build; apply after the app's normal DSL has been read.
+allprojects {
+    plugins.withId('com.android.application') {
+        androidComponents.finalizeDsl { extension ->
+            extension.defaultConfig.applicationId = 'com.peterpork.liuyao.screenshots'
+            extension.defaultConfig.testApplicationId = 'com.peterpork.liuyao.screenshots.test'
+        }
+    }
+}
